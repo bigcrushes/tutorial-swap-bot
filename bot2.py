@@ -14,7 +14,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 
-TOKEN = "5853516504:AAEsVh5WyxuEjthZYcKWSxP9aIEUjl5oMIQ"
+TOKEN = "REDACTED"
 
 # Setting up graph commands
 graphs = {}
